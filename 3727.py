@@ -17,3 +17,4 @@ for i in range(len(kwadraty)):
         wynik += kwadraty[i]
 
 print(wynik)
+	
